@@ -1,4 +1,4 @@
- ## <p align="center">Welcome to my page :wave: </p>
+ ## <p align="center">Welcome to my GitHub! :wave: </p>
 
 <br><p align="center">![Profile Dashboard](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laurenesco&theme=transparent)</p>
 
