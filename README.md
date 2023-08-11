@@ -1,4 +1,4 @@
- ## <p align="center">Welcome!! :wave: </p>
+ ## <p align="center">Welcome! :wave: </p>
 
  <p align="center">Welcome to my GitHub! I am a dedicated graduating senior student completing my B.S. in Computer Science with a minor in Mathematics. In addition to this, I hold an A.S. in Engineering. Currently, I work as a software developer at a technical research institution, embarking on a journey of continuous learning. I love diving into different programming languages like C#, Java, C++, and more. You'll find a collection of projects in my repositories that reflect my dedication to exploring new technologies and honing my problem-solving skills. From enterprise applications to personal experiments, I enjoy creating innovative solutions and delivering clean, high-quality code. I hope I can push boundaries, have fun, and make a positive impact through the power of coding.</p>
 
