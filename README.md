@@ -1,6 +1,6 @@
  ## <p align="center">Welcome! :wave: </p>
 
- <p align="center">Welcome to my GitHub! I am a graduating senior completing my B.S. in Computer Science with a minor in Mathematics. Additionally, I hold an A.S. in Engineering. Currently I work as a software developer at a technical research institution, and am concurrently working on my senior project using machine learning algorithms to train a new AI. I am a sponge when it comes to new knowledge, so I am always open to collaborations! I hope I can push boundaries, have fun, and empower others through coding.</p>
+ <p align="center">Welcome to my GitHub! I am a graduating senior completing my B.S. in Computer Science with a minor in Mathematics. Additionally, I hold an A.S. in Engineering. Currently I work as a software developer at a technical research institution, and am concurrently working on my senior project using machine learning algorithms to train a new AI. I am a sponge when it comes to new knowledge, so I am always open to collaborations! </p>
 
 <br><p align="center">![Profile Dashboard](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laurenesco&theme=transparent)</p>
 
