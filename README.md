@@ -9,4 +9,3 @@ Strong Skills <br><br>![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-t
 Familiar With <br><br>![TensorFlow](https://img.shields.io/badge/TensorFlow-CC5500?style=for-the-badge&logo=tensorflow&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-F80000?style=for-the-badge&logo=html5&logoColor=white) ![Bash](https://img.shields.io/badge/GNU%20Bash-40826D?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
 <br><p align="center">![Profile Dashboard](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laurenesco&theme=transparent)</p>
-<!--><br><p align="center">![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laurenesco&theme=transparent&show_icons=true&hide_border=true)</p><!-->
