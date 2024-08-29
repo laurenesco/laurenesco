@@ -1,6 +1,6 @@
  ## <p align="center">Welcome! :wave: </p>
 
- <p align="center">Welcome to my GitHub! I am a Master of Science in AI student at The University of Texas in Austin. Additionally, I hold a B.S. in Computer Science with a minor in Mathematics, and an A.S. in Engineering. I work as a software developer at a technical research institution, and am always looking forward to opportunities to learn and grow! </p>
+ <p align="center">Welcome to my GitHub! I am a Master of Science in AI student at The University of Texas in Austin. Additionally, I hold a B.S. in Computer Science with a minor in Mathematics, and an A.S. in Engineering. I work as a software developer at a technical research institution, and am always looking forward to new opportunities to learn and grow! </p>
 
 Social<br><br> [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lescobedo50) 
 <br><br>
